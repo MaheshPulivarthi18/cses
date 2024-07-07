@@ -1,4 +1,4 @@
-<img src="https://github.com/MaheshPulivarthi18/cses/assets/134507390/65e13b9a-db04-4929-987a-3505fd46578f" alt="code-works-code-not-working" style="width: 400%; height:100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg1emJkZ2E3d3BpMWI2aWdwbndqN3V0Y2VzZWV2NDZ6OHE0ZGg1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp" alt="code-works-code-not-working" style="max-width: 200%; height: auto; background: cover;">
 
 
 # CSES Problem Set Solutions
